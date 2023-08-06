@@ -4,7 +4,7 @@
 - 📫 How to reach me: iPazooki@gmail.com, 🔗[Twitter](https://twitter.com/iPazooki), 🔗[LinkedIn](https://www.linkedin.com/in/pazooki/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipazooki&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipazooki&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ipazooki&show_icons=true&theme=moltack" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipazooki&layout=donut&theme=moltack" />
 </p>
 
