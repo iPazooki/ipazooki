@@ -7,17 +7,13 @@
 
 - 📝 I regularly write articles on [https://dev.to/ipazooki](https://dev.to/ipazooki)
 
-- 💬 Ask me about **C#, Azure, and .NET**
+- 💬 Ask me about **Azure, C#, Angular and .NET**
 
 - 📫 How to reach me **iPazooki@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pazooki/](https://www.linkedin.com/in/pazooki/)
 
-- ⚡ Fun fact **In my opinion, working from home is a better option compared to commuting to the office. I believe this as it saves a lot of time and energy that is otherwise wasted in traffic.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **In my opinion, working from home is a better option compared to commuting to the office.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
