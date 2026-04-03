@@ -9,7 +9,7 @@ Building scalable systems, sharing knowledge, and continuously evolving 🚀
 
 ## 👨‍💻 About Me
 
-- 🇬🇧 Based in the UK, working as a *Senior Software Engineer*
+- 🇬🇧 Based in the UK (London), working as a *Senior Software Engineer*
 - 🧠 Strong focus on *clean architecture, scalable systems, and cloud-native development*
 - ☁️ Experienced in building *cloud-ready solutions with Azure*
 - 🔄 Advocate of *continuous learning, observability, and high-quality code*
