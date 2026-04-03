@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mo</h1>
 <h3 align="center">A passionate software developer from UK</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipazooki&title=Stars,Followers" alt="ipazooki" /></a> </p>
+<p align="left"> <a href="https://github.com/iPazooki"><img src="https://github-profile-trophy.vercel.app/?username=ipazooki&title=Stars,Followers" alt="ipazooki" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ipazooki" target="blank"><img src="https://img.shields.io/twitter/follow/ipazooki" alt="ipazooki" /></a> </p>
 
