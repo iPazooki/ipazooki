@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipazooki&title=Stars,Followers" alt="ipazooki" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ipazooki" target="blank"><img src="https://img.shields.io/twitter/follow/ipazooki?logo=twitter&style=for-the-badge" alt="ipazooki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ipazooki" target="blank"><img src="https://img.shields.io/twitter/follow/ipazooki" alt="ipazooki" /></a> </p>
 
 - 📝 I regularly write articles on [https://dev.to/ipazooki](https://dev.to/ipazooki)
 
